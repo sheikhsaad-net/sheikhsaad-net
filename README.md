@@ -14,9 +14,8 @@ I help startups and small and medium-sized businesses turn their ideas into secu
 
 ## Connect
 
-- [Website](https://sheikhsaad.net/)
-- [LinkedIn](https://www.linkedin.com/in/sheikhsaad-tech/)
-- [X / Twitter](https://twitter.com/saad_technologi)
-- [GitHub](https://github.com/sheikhsaad-net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikhsaad-tech/)
+[![X](https://img.shields.io/badge/X-444444?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/saad_technologi)
+[![GitHub](https://img.shields.io/badge/GitHub-2F81F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sheikhsaad-net)
 
 See my pinned repositories for examples of my projects.
