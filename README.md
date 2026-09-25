@@ -1,19 +1,22 @@
 # Hi, I'm Sheikh Saad 👋
 
-I'm a web developer who builds websites, web applications, and APIs. My work spans business platforms, e-commerce, education, and contact-management tools.
+**Technology Leader | Client Solutions | Secure, Scalable Digital Products**
 
-## What I work with
+I help startups and small and medium-sized businesses turn their ideas into secure, scalable technology solutions.
 
-- **Backend:** PHP, Laravel, Java, Spring Boot, REST APIs
-- **Frontend:** React, JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
-- **Data and tools:** MySQL, MongoDB, Git, GitHub
-- **Exploring:** Blockchain and Algorand applications
+## Areas of work
+
+- Custom web and mobile application development
+- SaaS and cloud application development
+- Cybersecurity and secure systems
+- Database development and business analytics
+- IT consulting, technical planning, and project management
 
 ## Connect
 
 - [Website](https://sheikhsaad.net/)
-- [LinkedIn](https://www.linkedin.com/in/saad-technologist/)
+- [LinkedIn](https://www.linkedin.com/in/sheikhsaad-tech/)
 - [X / Twitter](https://twitter.com/saad_technologi)
 - [GitHub](https://github.com/sheikhsaad-net)
 
-This profile is a work in progress. For project highlights, see the pinned repositories on my GitHub profile.
+See my pinned repositories for examples of my projects.
